@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/enzuo/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/enzuo/.nuget/packages/</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.6.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/Users/enzuo/.nuget/packages/" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)volo.abp.aspnetcore.multitenancy/7.4.1/contentFiles/any/net7.0/Volo.Abp.AspNetCore.MultiTenancy.abppkg.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.aspnetcore.multitenancy/7.4.1/contentFiles/any/net7.0/Volo.Abp.AspNetCore.MultiTenancy.abppkg.json')">
+      <NuGetPackageId>Volo.Abp.AspNetCore.MultiTenancy</NuGetPackageId>
+      <NuGetPackageVersion>7.4.1</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Volo.Abp.AspNetCore.MultiTenancy.abppkg.json</Link>
+    </Content>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)volo.abp.aspnetcore.serilog/7.4.1/contentFiles/any/net7.0/Volo.Abp.AspNetCore.Serilog.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.aspnetcore.serilog/7.4.1/contentFiles/any/net7.0/Volo.Abp.AspNetCore.Serilog.abppkg.analyze.json')">
+      <NuGetPackageId>Volo.Abp.AspNetCore.Serilog</NuGetPackageId>
+      <NuGetPackageVersion>7.4.1</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Volo.Abp.AspNetCore.Serilog.abppkg.analyze.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)volo.abp.aspnetcore.serilog/7.4.1/contentFiles/any/net7.0/Volo.Abp.AspNetCore.Serilog.abppkg.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.aspnetcore.serilog/7.4.1/contentFiles/any/net7.0/Volo.Abp.AspNetCore.Serilog.abppkg.json')">
+      <NuGetPackageId>Volo.Abp.AspNetCore.Serilog</NuGetPackageId>
+      <NuGetPackageVersion>7.4.1</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Volo.Abp.AspNetCore.Serilog.abppkg.json</Link>
+    </Content>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)volo.abp.account.web.openiddict/7.4.1/contentFiles/any/net7.0/Volo.Abp.Account.Web.OpenIddict.abppkg.analyze.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.account.web.openiddict/7.4.1/contentFiles/any/net7.0/Volo.Abp.Account.Web.OpenIddict.abppkg.analyze.json')">
+      <NuGetPackageId>Volo.Abp.Account.Web.OpenIddict</NuGetPackageId>
+      <NuGetPackageVersion>7.4.1</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Volo.Abp.Account.Web.OpenIddict.abppkg.analyze.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)volo.abp.account.web.openiddict/7.4.1/contentFiles/any/net7.0/Volo.Abp.Account.Web.OpenIddict.abppkg.json" Condition="Exists('$(NuGetPackageRoot)volo.abp.account.web.openiddict/7.4.1/contentFiles/any/net7.0/Volo.Abp.Account.Web.OpenIddict.abppkg.json')">
+      <NuGetPackageId>Volo.Abp.Account.Web.OpenIddict</NuGetPackageId>
+      <NuGetPackageVersion>7.4.1</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>Volo.Abp.Account.Web.OpenIddict.abppkg.json</Link>
+    </Content>
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.configuration.usersecrets/7.0.0/buildTransitive/net6.0/Microsoft.Extensions.Configuration.UserSecrets.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.configuration.usersecrets/7.0.0/buildTransitive/net6.0/Microsoft.Extensions.Configuration.UserSecrets.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore/7.0.10/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore/7.0.10/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">/Users/enzuo/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.2</PkgMicrosoft_CodeAnalysis_Analyzers>
+    <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">/Users/enzuo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0</PkgMicrosoft_Extensions_ApiDescription_Server>
+  </PropertyGroup>
+</Project>

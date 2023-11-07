@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Domain.Shared/BookStore.Domain.Shared.csproj": {}
+  },
+  "projects": {
+    "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Domain.Shared/BookStore.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Domain.Shared/BookStore.Domain.Shared.csproj",
+        "projectName": "BookStore.Domain.Shared",
+        "projectPath": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Domain.Shared/BookStore.Domain.Shared.csproj",
+        "packagesPath": "/Users/enzuo/.nuget/packages/",
+        "outputPath": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Domain.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/Users/enzuo/code/cs/abp/pgsql/NuGet.Config",
+          "/Users/enzuo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0",
+          "netstandard2.0",
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          },
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Volo.Abp.AuditLogging.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.BackgroundJobs.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.FeatureManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.Identity.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.OpenIddict.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.SettingManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.TenantManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.AuditLogging.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.BackgroundJobs.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.FeatureManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.Identity.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.OpenIddict.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.SettingManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.TenantManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Volo.Abp.AuditLogging.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.BackgroundJobs.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.FeatureManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.Identity.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.OpenIddict.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.SettingManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Volo.Abp.TenantManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

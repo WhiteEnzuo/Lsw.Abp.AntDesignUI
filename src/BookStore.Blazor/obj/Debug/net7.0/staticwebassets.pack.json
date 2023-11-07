@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Blazor/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Blazor/obj/Debug/net7.0/build-gz/VD6kIN4v.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Blazor/obj/Debug/net7.0/scopedcss/bundle/BookStore.Blazor.styles.css",
+      "PackagePath": "staticwebassets/BookStore.Blazor.styles.css"
+    },
+    {
+      "Id": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Blazor/wwwroot/appsettings.Development.json",
+      "PackagePath": "staticwebassets/appsettings.Development.json"
+    },
+    {
+      "Id": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Blazor/wwwroot/appsettings.json",
+      "PackagePath": "staticwebassets/appsettings.json"
+    },
+    {
+      "Id": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Blazor/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Blazor/wwwroot/global.css",
+      "PackagePath": "staticwebassets/global.css"
+    },
+    {
+      "Id": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Blazor/wwwroot/global.js",
+      "PackagePath": "staticwebassets/global.js"
+    },
+    {
+      "Id": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Blazor/wwwroot/images/logo/leptonx/logo-dark-thumbnail.png",
+      "PackagePath": "staticwebassets/images/logo/leptonx/logo-dark-thumbnail.png"
+    },
+    {
+      "Id": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Blazor/wwwroot/images/logo/leptonx/logo-dark.png",
+      "PackagePath": "staticwebassets/images/logo/leptonx/logo-dark.png"
+    },
+    {
+      "Id": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Blazor/wwwroot/images/logo/leptonx/logo-light-thumbnail.png",
+      "PackagePath": "staticwebassets/images/logo/leptonx/logo-light-thumbnail.png"
+    },
+    {
+      "Id": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Blazor/wwwroot/images/logo/leptonx/logo-light.png",
+      "PackagePath": "staticwebassets/images/logo/leptonx/logo-light.png"
+    },
+    {
+      "Id": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Blazor/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/enzuo/code/cs/abp/pgsql/src/BookStore.Blazor/wwwroot/main.css",
+      "PackagePath": "staticwebassets/main.css"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.BookStore.Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.BookStore.Blazor.props",
+      "PackagePath": "build\\BookStore.Blazor.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BookStore.Blazor.props",
+      "PackagePath": "buildMultiTargeting\\BookStore.Blazor.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BookStore.Blazor.props",
+      "PackagePath": "buildTransitive\\BookStore.Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

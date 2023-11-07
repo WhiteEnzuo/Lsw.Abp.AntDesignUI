@@ -1,0 +1,15 @@
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/bin/Debug/netstandard2.1/BookStore.HttpApi.Client.deps.json
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/bin/Debug/netstandard2.1/BookStore.HttpApi.Client.dll
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/bin/Debug/netstandard2.1/BookStore.HttpApi.Client.pdb
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/bin/Debug/netstandard2.1/BookStore.Application.Contracts.dll
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/bin/Debug/netstandard2.1/BookStore.Domain.Shared.dll
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/bin/Debug/netstandard2.1/BookStore.Application.Contracts.pdb
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/bin/Debug/netstandard2.1/BookStore.Domain.Shared.pdb
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.1/BookStore.HttpApi.Client.csproj.AssemblyReference.cache
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.1/BookStore.HttpApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.1/BookStore.HttpApi.Client.AssemblyInfoInputs.cache
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.1/BookStore.HttpApi.Client.AssemblyInfo.cs
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.1/BookStore.HttpApi.Client.csproj.CoreCompileInputs.cache
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.1/BookStore.HttpApi.Client.csproj.CopyComplete
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.1/BookStore.HttpApi.Client.dll
+/Users/enzuo/code/cs/abp/pgsql/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.1/BookStore.HttpApi.Client.pdb
