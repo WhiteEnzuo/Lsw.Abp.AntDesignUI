@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+    <Import Project="..\..\..\common.props" />
+    <Import Project="..\..\..\configureawait.props" />
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Volo.Abp.AutoMapper" Version="$(ABPPackageVersion)" />
+      <PackageReference Include="Volo.Abp.PermissionManagement.Application.Contracts" Version="$(ABPPackageVersion)" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\..\src\Lsw.Abp.AntDesignUI\Lsw.Abp.AntDesignUI.csproj" />
+    </ItemGroup>
+
+</Project>
