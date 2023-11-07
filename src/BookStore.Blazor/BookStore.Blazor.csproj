@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <BlazorWebAssemblyLoadAllGlobalizationData>true</BlazorWebAssemblyLoadAllGlobalizationData>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Blazorise.Bootstrap5" Version="1.3.1" />
+    <PackageReference Include="Blazorise.Icons.FontAwesome" Version="1.3.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.12" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- <PackageReference Include="Volo.Abp.AspNetCore.Components.WebAssembly.LeptonXLiteTheme" Version="2.4.*-*" /> -->
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.Autofac.WebAssembly" Version="7.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- <PackageReference Include="Volo.Abp.Identity.Blazor.WebAssembly" Version="7.4.1" />
+    <PackageReference Include="Volo.Abp.TenantManagement.Blazor.WebAssembly" Version="7.4.1" />
+    <PackageReference Include="Volo.Abp.SettingManagement.Blazor.WebAssembly" Version="7.4.1" /> -->
+  </ItemGroup>
+
+  <ItemGroup>
+  <PackageReference Include="Lsw.Abp.IdentityManagement.Blazor.WebAssembly.AntDesignUI" Version="0.9.0" />
+    <PackageReference Include="Lsw.Abp.AspnetCore.Components.WebAssembly.AntDesignTheme" Version="0.9.0" />
+      <PackageReference Include="Lsw.Abp.SettingManagement.Blazor.WebAssembly.AntDesignUI" Version="0.9.0" />
+        <PackageReference Include="Lsw.Abp.TenantManagement.Blazor.WebAssembly.AntDesignUI" Version="0.9.0" />
+      
+    <ProjectReference Include="..\..\src\BookStore.HttpApi.Client\BookStore.HttpApi.Client.csproj" />
+  </ItemGroup>
+
+
+</Project>
